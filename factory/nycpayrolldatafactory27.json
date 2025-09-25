@@ -1,0 +1,9 @@
+{
+	"name": "nycpayrolldatafactory27",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3fe038fb-bada-4a58-8919-f010e768aaa4",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
